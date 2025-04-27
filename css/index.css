@@ -28,7 +28,7 @@ header nav {
     padding: 1rem;
 }
 .nav_list li a:hover {
-    background: #000;
+    background: red;
     color: #fff;;
     border-radius: 100vw;
 }
